@@ -1,7 +1,5 @@
 # ConnectS — Database Connection String Automator
 
-![ConnectS Logo](https://raw.githubusercontent.com/obrunis/ConnectS/main/assets/connects_logo.png) <!-- Placeholder for a potential logo -->
-
 ConnectS é uma ferramenta profissional desenvolvida em Python com Tkinter para automatizar a configuração de strings de conexão Oracle TNS e atualizar arquivos `MegaConfig.xml`. Com uma interface de usuário moderna e temática Cyber/Glassmorphism, o ConnectS simplifica o processo de gerenciamento de conexões de banco de dados, tornando-o mais eficiente e menos propenso a erros.
 
 ## Funcionalidades
@@ -74,7 +72,3 @@ Contribuições são bem-vindas! Se você tiver sugestões de melhorias, relató
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE). Veja o arquivo `LICENSE` para mais detalhes.
-
----
-
-**Autor**: Manus AI (em nome do usuário)
